@@ -1,7 +1,7 @@
 This repository contains source code for the experiments in a paper titled
 [_Semi-Supervised Learning with Ladder Networks_](http://arxiv.org/abs/1507.02672) by A Rasmus, H Valpola, M Honkala,
 M Berglund, and T Raiko.
-
+Cool
 #### Required libraries
 ##### Install Theano, Blocks Stable 0.0.1, Fuel Stable 0.0.1
 Refer to the [Blocks installation instructions](http://blocks.readthedocs.org/en/latest/setup.html) for
